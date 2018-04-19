@@ -18,7 +18,7 @@
 		<div class="row mt-2">
 			<div>
 				<a class="btn btn-danger" href="<c:url value="/" />">Inicio</a>
-				<a class="btn btn-success" href="<c:url value="/" />">Spitter</a>
+				<a class="btn btn-success" href="<c:url value="/" />">Ejemplo</a>
 			</div>	 
 			<h1 class="ml-2">Curso de Spring &rarr; Página de Inicio</h1>
 		</div>	
